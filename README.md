@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **MERN stack, Android Development**
+- 💬 Ask me about **Full Stack (MERN) Development, ML & Data Science ,App Development**
 
 - 📫 How to reach me **dewanshyadaw8@gmail.com**
 
